@@ -15,8 +15,10 @@ To run the API, run the following command:
 npm start for spinning up the server
 cd 👉 flatFile, then cmd tsc populateDb.tsc then cmd node populateDb.js
 
-         💡
-** DATABASE CONNECTION **
+                                     💡
+                          ** DATABASE CONNECTION **
+
+
 Here, I am using Cloud based instance of MongoDB on Atlas server. it is important you create a cluster of MongoDb on Atlas and then replace the URI used in creating connection via mongoose. my credentials are secured in .env file to manage access to making connection to my account. Thanks for your understanding!
 
 Authentication
