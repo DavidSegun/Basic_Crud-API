@@ -53,21 +53,14 @@ To get a list of all acronyms, you can send a GET request to the /acronyms endpo
 curl http://localhost:3000/acronyms
 To get a specific acronym, you can send a GET request to the /acronyms/:acronymID endpoint, where :acronymID is the ID of the acronym:
 
-curl http://localhost:3000/acronyms/{id}
+curl http://localhost:3000/acronyms/
 To create a new acronym, you can send a POST request to the /acronyms endpoint with the following JSON body:
 
-JSON
-{
-  "acronym": "API",
-  "definition": "Application Programming Interface"
-}
-Use code with caution. Learn more
+
+
 To update an existing acronym, you can send a PUT request to the /acronyms/:acronymID endpoint with the following JSON body:
 
-JSON
-{
-  "definition": "Updated definition"
-}
+
 
 To delete an existing acronym, you can send a DELETE request to the /acronyms/:acronymID endpoint.
 
