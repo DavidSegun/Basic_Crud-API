@@ -1,4 +1,6 @@
-Introduction
+<b> Introduction
+
+
 This is a REST API developed using Node.js, Express, and MongoDB. It includes the following features:
 
 JWT authentication
