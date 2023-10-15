@@ -13,6 +13,8 @@ Running the API
 To run the API, run the following command:
 
 npm start for spinning up the server
+
+
 cd 👉 flatFile, then cmd tsc populateDb.tsc then cmd node populateDb.js
 
                                      💡
