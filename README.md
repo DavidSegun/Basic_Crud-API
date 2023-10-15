@@ -1,7 +1,7 @@
-<b> Introduction
+<b>             INTRODUCTION
 
 
-This is a REST API developed using Node.js, Express, and MongoDB. It includes the following features:
+This is a REST API developed using Node.js, Express, and MongoDB. It includes the following features:</b>
 
 JWT authentication
 Testing with Jest
