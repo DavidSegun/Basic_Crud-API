@@ -66,6 +66,6 @@ JSON
 {
   "definition": "Updated definition"
 }
-Use code with caution. Learn more
+
 To delete an existing acronym, you can send a DELETE request to the /acronyms/:acronymID endpoint.
 
